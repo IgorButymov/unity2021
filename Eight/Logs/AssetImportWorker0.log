@@ -1,0 +1,219 @@
+Unity Editor version:    2020.3.19f1 (68f137dc9bbe)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 12.0.1 (Build 21A559)
+Darwin version:          21.1.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        8192 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.19f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49258
+Successfully changed project path to: /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion
+/Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 43.13 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.19f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Assets
+GfxDevice: creating device client; threaded=0
+2021-11-29 23:02:03.003 Unity[2979:38672] Color LCD preferred device: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-11-29 23:02:03.003 Unity[2979:38672] Metal devices available: 1
+2021-11-29 23:02:03.003 Unity[2979:38672] 0: Intel(R) Iris(TM) Plus Graphics 645 (low power)
+2021-11-29 23:02:03.004 Unity[2979:38672] Using device Intel(R) Iris(TM) Plus Graphics 645 (low power)
+Initializing Metal device caps: Intel(R) Iris(TM) Plus Graphics 645
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.19f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.19f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.19f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56979
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.19f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.19f1/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002617 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 36.00 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.495 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2495ms)
+		BeginReloadAssembly (52ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (618ms)
+			LoadAssemblies (52ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (263ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (53ms)
+			SetupLoadedEditorAssemblies (229ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (36ms)
+				BeforeProcessingInitializeOnLoad (15ms)
+				ProcessInitializeOnLoadAttributes (127ms)
+				ProcessInitializeOnLoadMethodAttributes (43ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005418 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.444 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1445ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1154ms)
+			LoadAssemblies (111ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (420ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (69ms)
+			SetupLoadedEditorAssemblies (396ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (307ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.001393 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.016064 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.19f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Initializing Unity extensions:
+[C# Project] Writing /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Quternion.sln because it has changed
+[C# Project] First difference on line 4
+
+[C# Project] Current /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Quternion.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{30608862-5612-31CA-D189-CCFC47605374}"
+[C# Project]   005: EndProject
+[C# Project]   006: Global
+[C# Project]   007: 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+[C# Project]   008: 		Debug|Any CPU = Debug|Any CPU
+
+[C# Project] New /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Quternion.sln:
+[C# Project]   004: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.TestRunner", "UnityEngine.TestRunner.csproj", "{A88D446B-40AE-4036-7587-1359A16D234F}"
+[C# Project]   005: EndProject
+[C# Project]   006: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityEngine.UI.Tests", "UnityEngine.UI.Tests.csproj", "{C8C7864A-F3A4-253A-821A-58E765A35F7B}"
+[C# Project]   007: EndProject
+[C# Project]   008: Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Timeline", "Unity.Timeline.csproj", "{E4315081-E51A-A944-BDC0-7A8968C2BFDF}"
+[C# Project] Writing /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Assembly-CSharp.csproj because it has changed
+[C# Project] First difference on line 641
+
+[C# Project] Current /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Assembly-CSharp.csproj:
+[C# Project]   641:  <Reference Include="Unity.VSCode.Editor">
+[C# Project]   642:  <HintPath>/Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+[C# Project]   643:  </Reference>
+[C# Project]   644:  <Reference Include="Unity.TextMeshPro.Editor">
+[C# Project]   645:  <HintPath>/Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+
+[C# Project] New /Users/igorbutymov/Downloads/UnityPM2021-stable/Quternion/Assembly-CSharp.csproj:
+[C# Project]   641:   </ItemGroup>
+[C# Project]   642:   <ItemGroup>
+[C# Project]   643:     <ProjectReference Include="Unity.VSCode.Editor.csproj">
+[C# Project]   644:       <Project>{CBDE8F6F-178F-6B9C-3F3E-1C15031920A8}</Project>
+[C# Project]   645:       <Name>Unity.VSCode.Editor</Name>
+2021-11-29 23:02:08.401 Unity[2979:38672] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003e013b0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2021-11-29 23:02:08.404 Unity[2979:38672] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x600003e17cd0 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.33 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1414 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 193.9 MB.
+System memory in use after: 193.1 MB.
+
+Unloading 80 unused Assets to reduce memory usage. Loaded Objects now: 1889.
+Total: 3.690125 ms (FindLiveObjects: 0.149392 ms CreateObjectMapping: 0.046864 ms MarkObjects: 2.888540 ms  DeleteObjects: 0.604431 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Square.mat
+  artifactKey: Guid(7bdbd5dabed65c945a59536ac985364a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Square.mat using Guid(7bdbd5dabed65c945a59536ac985364a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b0fb99810f2809d891a7db71584a741') in 1.182170 seconds 
+  Import took 1.185089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.093678 seconds.
+  path: Assets/Ball.mat
+  artifactKey: Guid(25c206e6ec4338040814db3d2169c735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ball.mat using Guid(25c206e6ec4338040814db3d2169c735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55c3197156369ccd58dadf31fd040711') in 0.014172 seconds 
+  Import took 0.017686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.294315 seconds.
+  path: Assets/Ball.mat
+  artifactKey: Guid(25c206e6ec4338040814db3d2169c735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Ball.mat using Guid(25c206e6ec4338040814db3d2169c735) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60804f5b6253f068e30e9e9c4df85b5e') in 0.025165 seconds 
+  Import took 0.033020 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000776 seconds.
+  path: Assets/Square.mat
+  artifactKey: Guid(7bdbd5dabed65c945a59536ac985364a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Square.mat using Guid(7bdbd5dabed65c945a59536ac985364a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1475a45911611f1a1ad81f5037633449') in 0.026204 seconds 
+  Import took 0.035722 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
